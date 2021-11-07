@@ -3,4 +3,6 @@
     <string name="menu_item_left">Left</string>
     <string name="menu_item_center">Center</string>
     <string name="menu_item_right">Right</string>
+    <string name="button_calc">Go back and calculate</string>
+    <string name="button_right">Add</string>
 </resources>
