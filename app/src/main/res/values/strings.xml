@@ -5,4 +5,6 @@
     <string name="menu_item_right">Right</string>
     <string name="button_calc">Go back and calculate</string>
     <string name="button_right">Add</string>
+    <string name="button_left_phone">Run Dialer</string>
+    <string name="button_left_browser">Run browser</string>
 </resources>

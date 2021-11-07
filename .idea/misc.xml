@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/androidProjects/L02_1/app/src/main/res/layout/activity_calc.xml" value="0.33" />
+        <entry key="..\:/androidProjects/L02_1/app/src/main/res/layout/activity_left.xml" value="0.33" />
         <entry key="..\:/androidProjects/L02_1/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/androidProjects/L02_1/app/src/main/res/layout/activity_right.xml" value="0.33" />
         <entry key="..\:/androidProjects/L02_1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.75" />
